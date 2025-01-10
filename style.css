@@ -1,0 +1,101 @@
+body {
+    min-height: 2000px;
+    font-family: 'Barlow Condensed', 'Nanum Gothic', sans-serif;
+  }
+  
+  
+  .navbar-brand {
+    font-family: 'Viga', sans-serif;
+    color: #3282b8;
+  }
+  
+  
+  .profile {
+    padding-top: 120px;
+    background-color: #4c4c4c;
+    text-align: center;
+    color: white;
+  }
+  
+  .profile h1 {
+    margin-top: 20px;
+    font-weight: 500;
+  }
+  
+  .profile p {
+    margin-top: -5px;
+  }
+  
+  .profile img {
+    border-radius: 50%;
+  }
+  
+  
+  
+  footer {
+    width: 100%;
+    height: 65px;
+    background-color: #313131;
+    padding-top: 15px;
+    margin-top: 100px;
+  }
+  
+  footer p {
+    color: #777;
+    font-size: 12px;
+    margin-bottom: 3px;
+  }
+  
+  footer p a {
+    color: #777;
+    transition: color 0.7s;
+    text-decoration: none;
+    font-weight: 600;
+  }
+  
+  footer span {
+    font-weight: bold;
+  }
+  
+  footer p a:hover {
+    text-decoration: none;
+    color: #3282b8;
+  }
+  
+  
+  section {
+    padding-top: 5rem;
+  }
+  
+  .sertifikat{
+    text-align: center;
+  }
+  
+  .skill-container {
+    width: 100%;
+    max-width: 600px;
+    margin: 20px auto;
+  }
+  .skill {
+    margin-bottom: 15px;
+  }
+  .skill-name {
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  .skill-bar {
+    width: 100%;
+    background-color: #e0e0e0;
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  .skill-bar-fill {
+    height: 20px;
+    background-color: #313131;
+    text-align: right;
+    padding-right: 10px;
+    line-height: 20px;
+    color: white;
+    border-radius: 10px 0 0 10px;
+  }
+  
